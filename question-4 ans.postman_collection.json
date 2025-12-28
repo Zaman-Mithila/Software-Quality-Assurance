@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "c050c86d-9073-4411-99cb-ca4f71247135",
+		"name": "question-4 ans",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "50988440",
+		"_collection_link": "https://mithif0-5269497.postman.co/workspace/farjana-mithi's-Workspace~f68f313a-b26f-4699-87c8-65642c85f1d9/collection/50988440-c050c86d-9073-4411-99cb-ca4f71247135?action=share&source=collection_link&creator=50988440"
+	},
+	"item": [
+		{
+			"name": "Search Products",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Add to Cart",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "post",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
